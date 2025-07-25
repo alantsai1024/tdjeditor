@@ -26,7 +26,6 @@
 
 ## 版本信息
 - 版本: 1.0.0
-- 構建時間: C:\Users\h1054\OneDrive\桌面\tdj
 
 ---
 © 2024 天地劫編輯器 - 基於 Python + Tkinter 開發
